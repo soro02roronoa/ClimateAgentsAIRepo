@@ -1,0 +1,85 @@
+{
+  "frameworks": [
+
+    {
+      "id": 1,
+      "name": "GHG Protocol",
+      "collection_name": "framework_1_chunks",
+      "pdfs": [
+        {
+          "id": 1,
+          "name": "GHG Protocol Revised",
+          "pdfUrl": "static/ghg-protocol/ghg-protocol-revised.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Corporate Value Chain (Scope 3) Accounting and Reporting",
+          "pdfUrl": "static/ghg-protocol/corporate_value_chain_scope_3_accounting_reporting_standard.pdf"
+        },
+        {
+          "id": 3,
+          "name": "Product Life Cycle Accounting and Reporting",
+          "pdfUrl": "static/ghg-protocol/product_life_cycle_accounting_reporting_standard.pdf"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EU RED",
+      "collection_name": "framework_2_chunks",
+      "pdfs": [
+        {
+          "id": 4,
+          "name": "Commision Implementing Regulation",
+          "pdfUrl": "static/eu-red/commision_implementing_regulation.pdf"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ISCC EU",
+      "collection_name": "framework_3_chunks",
+      "pdfs": [
+        {
+          "id": 5,
+          "name": "ISCC EU Risk Managment",
+          "pdfUrl": "static/iscc-eu/iscc_eu_204_risk_management_january_2024.pdf"
+        },
+        {
+          "id": 6,
+          "name": "ISCC EU Certification",
+          "pdfUrl": "static/iscc-eu/iscc_eu_205_greenhouse_gas_emissions_january_2024.pdf"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EU CSRD",
+      "collection_name": "framework_4_chunks",
+      "pdfs": [
+        {
+          "id": 7,
+          "name": "Commision Delegated Regulation",
+          "pdfUrl": "static/eu-csrd/commision_delegated_regulation.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Indian Carbon Market",
+      "collection_name": "framework_5_chunks",
+      "pdfs": [
+        {
+          "id": 8,
+          "name": "Accreditation Procedure and Eligibility Criteria for Accredited Carbon Verification Agency",
+          "pdfUrl": "static/icm/accreditation_procedure_and_eligibility_criteria_for_accredited_carbon_verification_agency.pdf"
+        },
+        {
+          "id": 9,
+          "name": "Detailed Procedure for Compliance Mechanism under CCTS",
+          "pdfUrl": "static/icm/detailed_procedure_for_compliance_procedure_under_ccts.pdf"
+        }
+      ]
+    }
+  ]
+}
